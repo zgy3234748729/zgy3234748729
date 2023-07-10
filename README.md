@@ -1,3 +1,10 @@
+## Info
+- Hi, I'm @zgy3234748729
+
+## Site
+- 🎑 [baidu](https://www.baidu.com) you can find baidu
+  
+
 ### Hi there 👋
 
 <!--
