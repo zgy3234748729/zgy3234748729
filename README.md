@@ -4,7 +4,9 @@
 ## Site
 - 🎑 [baidu](https://www.baidu.com) you can find baidu
   
-
+## chat with me
+- zeek323474@gmail.com
+- 3234748729@qq.com
 ### Hi there 👋
 
 <!--
