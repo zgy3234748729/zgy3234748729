@@ -4,10 +4,10 @@
 ## Site
 - 🎑 [baidu](https://www.baidu.com) you can find baidu
   
-## chat with me
-- zeek323474@gmail.com
-- 3234748729@qq.com
-### Hi there 👋
+## Chat with me
+- 📧zeek323474@gmail.com
+- 🐧3234748729@qq.com
+
 
 <!--
 **zgy3234748729/zgy3234748729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
